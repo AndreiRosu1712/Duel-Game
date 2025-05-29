@@ -125,7 +125,7 @@ Character 1 won!
 
 ### Cum sa Contribui
 1. Fork repository-ul
-2. Creeaza o branch noua
+2. Creeaza un branch nou
 3. Commit modificarile
 4. Push la branch
 5. Deschide un Pull Request
